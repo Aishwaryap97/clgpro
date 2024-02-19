@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End%20to%20end%20projects/clgpro/mlruns/0/ab197f9db9fe4392bf0800dbada3873e/artifacts
+end_time: 1708345149669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab197f9db9fe4392bf0800dbada3873e
+run_name: beautiful-newt-870
+run_uuid: ab197f9db9fe4392bf0800dbada3873e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708345143328
+status: 3
+tags: []
+user_id: root
